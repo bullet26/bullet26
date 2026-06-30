@@ -31,8 +31,6 @@
 </p>
 
 
-## GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bullet26&layout=compact&theme=midnight-purple" />
 
 
 <!--
